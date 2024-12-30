@@ -1,0 +1,51 @@
+* {
+    font-family: 'SUSE', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #c8e5e8;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h1, h2, h3 {
+    color: #296066;
+}
+
+p {
+    font-size: 20px;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid #296066;
+}
+
+th {
+    font-weight: bold;
+    background-color: #56cfdc;
+}
+
+tbody {
+    background-color: #c8faff;
+}
+
+td {
+    border-top: 1px solid #56cfdc;
+    padding: 1px 2px;
+}
+
+td.mono {
+    font-family: 'Courier New', monospace;
+}
